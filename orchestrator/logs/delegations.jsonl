@@ -1,0 +1,3 @@
+# ZEUS Delegation Log — GastroHUB
+# Format: {"timestamp": "ISO-8601", "task_id": "uuid", "agent": "name", "model": "id", "priority": "High|Med|Low", "context_estimate": int, "max_price_usd": float, "cost_actual": float|null, "return_format": "str", "cache_ttl": int, "result_status": "success|failure|timeout|rejected", "zeus_decision": "ACCEPT|REVISE|ESCALATE", "notes": "str"}
+# Created: 2026-06-23

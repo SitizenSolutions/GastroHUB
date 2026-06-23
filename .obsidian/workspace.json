@@ -1,0 +1,38 @@
+{
+  "main": {
+    "id": "home",
+    "type": "markdown",
+    "state": {
+      "file": "Home.md",
+      "mode": "preview"
+    }
+  },
+  "left": {
+    "id": "left",
+    "type": "split",
+    "direction": "vertical",
+    "children": [
+      {"id": "file-explorer", "type": "file-explorer", "state": {}},
+      {"id": "search", "type": "global-search", "state": {}}
+    ],
+    "width": 280
+  },
+  "right": {
+    "id": "right",
+    "type": "split",
+    "direction": "vertical",
+    "children": [
+      {"id": "backlink", "type": "backlink", "state": {}},
+      {"id": "outline", "type": "outline", "state": {}}
+    ],
+    "width": 280
+  },
+  "active": "home",
+  "lastOpenFiles": [
+    "Home.md",
+    "agents/Agent Overview.md",
+    "orchestrator/ZEUS Policy.md",
+    "agents/ZEUS.md",
+    "agents/HERA.md"
+  ]
+}

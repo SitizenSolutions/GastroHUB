@@ -1,0 +1,3 @@
+# ZEUS Audit Log — Verifikationen & Eskalationen
+# Format: {"timestamp": "ISO-8601", "audit_id": "uuid", "trigger": "low_accept_rate|cost_overrun|critical_release|manual", "agent": "name", "model_used": "id", "findings": "str", "action": "str", "approved_by": "user|auto"}
+# Created: 2026-06-23
